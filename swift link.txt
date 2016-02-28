@@ -1,0 +1,46 @@
+전반적인 내용
+ 
+Swift Cheat Sheet and Quick Reference
+- http://www.raywenderlich.com/73967/swift-cheat-sheet-and-quick-reference
+- 문법을 간단히 훑어볼 수 있는 Cheat Sheet 제공
+ 
+The Official raywenderlich.com Swift Style Guide.
+- https://github.com/raywenderlich/swift-style-guide
+- github에 정리된 swift 문법
+ 
+Objective-C 보다 Swift 가 좋은 점
+- http://yisangwook.tumblr.com/post/87669674314/swift-objective-c
+ 
+스위프트(Swift) 가이드
+- http://seorenn.blogspot.kr/2014/06/swift_16.html
+ 
+잉여개발자
+- http://minsone.github.io/
+- swift tag로 swift 관련 글 확인 가능
+ 
+Kei 블로그의 Swift 관련 글
+- http://meetkei.com/?tag=swift
+ 
+스위프트 프로그래밍 언어
+- http://www.slideshare.net/deview/1-b1-39609214
+ 
+------------------------------------------------------------------------------------
+개별적인 개념
+ 
+Swift 옵셔널(Optional)? 
+- http://blog.naver.com/seotaji/220125549546
+ 
+[Swift] Optional Type 그리고 ?
+- http://soulpark.wordpress.com/2014/06/20/swift-optionals-and-question-mark/
+ 
+Swift Basics ? Variables, Constants, Data Types, Tuples, Optionals
+- http://meetkei.com/?p=3274
+
+------------------------------------------------------------------------------------
+기타
+
+dispatch_once singleton model in swift
+- http://stackoverflow.com/questions/24024549/dispatch-once-singleton-model-in-swift?
+- https://github.com/hpique/SwiftSingleton
+- singleton 구현 방법
+[출처] [iOS][Swift] Swift 관련 링크 모음 |작성자 조금씩
